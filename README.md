@@ -12,8 +12,9 @@ CalmLife
 **Framework ที่ใช้ (Framework Used):** Flutter / React Native / อื่น ๆ  
 Flutter
 
-**ลิงก์ GitHub Repository:** [ใส่ลิงก์ที่นี่ | Insert link here]  
-**ลิงก์ไฟล์ติดตั้ง (APK/IPA):** [ใส่ลิงก์ที่นี่ | Insert link here]
+**ลิงก์ GitHub Repository:** https://github.com/ThaungThanHanLamduan/calmlife_finalmobileproject
+
+**ลิงก์ไฟล์ติดตั้ง (APK/IPA):** https://drive.google.com/file/d/10O3wd_1Jt2SUrKew5GzVZQ2zyosk8-xv/view?usp=sharing
 
 ---
 
@@ -45,7 +46,18 @@ Persona 2:
 
 ### 1.3 โครงร่างหน้าจอ / Mockup  
 **ใส่รูปภาพ หรือคำอธิบายแต่ละหน้าหลัก 3 หน้า | Attach image or describe 3 main pages**
-
+![Main Screen](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/first.png)
+```markdown
+This page is for choosing the duration and ambient music for meditation.
+```
+![History](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/third.png)
+```markdown
+This page is for checking history of the meditations user has done.
+```
+![Guide](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/fourth.png)
+```markdown
+This page is for guiding users on how to meditate the right way.
+```
 ### 1.4 การไหลของผู้ใช้งาน | User Flow  
 **ตัวอย่าง (Example):**
 ```markdown
@@ -66,20 +78,17 @@ Open app → Select meditation time → Choose ambient sound → Start meditatio
 
 ### 2.2 ฟังก์ชันที่พัฒนา | Features Implemented  
 **Checklist:**
-```markdown
 - [x] Select meditation duration (5 / 10 / 30 minutes)
 - [x] Select ambient background sounds (calm / forest / ocean / rain)
 - [x] Display elapsed meditation time
-- [ ] Record meditation session history
-```
+- [x] Record meditation session history
 
 ### 2.3 ภาพหน้าจอแอป | App Screenshots  
 **แนบภาพหรือ URL (Attach images or image links):**
-```markdown
-- ![Dashboard](dashboard.png)
-- ![Schedule](schedule.png)
-- ![Reminder](reminder.png)
-```
+![Main Screen](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/first.png)
+![Timer](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/second.png)
+![History](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/third.png)
+![Guide](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/fourth.png)
 
 ---
 
