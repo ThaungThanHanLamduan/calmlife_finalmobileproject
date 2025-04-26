@@ -46,18 +46,22 @@ Persona 2:
 
 ### 1.3 โครงร่างหน้าจอ / Mockup  
 **ใส่รูปภาพ หรือคำอธิบายแต่ละหน้าหลัก 3 หน้า | Attach image or describe 3 main pages**
+
 ![Main Screen](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/first.png)
 ```markdown
 This page is for choosing the duration and ambient music for meditation.
 ```
+
 ![History](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/third.png)
 ```markdown
 This page is for checking history of the meditations user has done.
 ```
+
 ![Guide](https://raw.githubusercontent.com/ThaungThanHanLamduan/calmlife_finalmobileproject/refs/heads/main/assets/image/fourth.png)
 ```markdown
 This page is for guiding users on how to meditate the right way.
 ```
+
 ### 1.4 การไหลของผู้ใช้งาน | User Flow  
 **ตัวอย่าง (Example):**
 ```markdown
